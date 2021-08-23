@@ -1,8 +1,0 @@
-/* #Social */
-.social-list a {
-	color: $invert_text_color;
-}
-
-.social-list a:hover {
-	color: $primary_color;
-}
